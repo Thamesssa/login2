@@ -19,7 +19,7 @@ git clone https://github.com/Thamesssa/login2.git
 npm install
 
 3. Start the server:
-npm start
+node app.js
 
 
 ## Usage3
